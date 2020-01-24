@@ -1,4 +1,4 @@
-insert into bears (name, age, gender, color, temperament, alive) values ("Mr. Chocolate", )
+insert into bears (name, age, gender, color, temperament, alive) values ("Mr. Chocolate", 10, "Male", "Brown", "Relaxed", TRUE)
   insert into bears (name, age, gender, color, temperament, alive) values ()
     insert into bears (name, age, gender, color, temperament, alive) values ()
       insert into bears (name, age, gender, color, temperament, alive) values ()
