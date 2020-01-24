@@ -6,4 +6,3 @@ insert into bears (name, age, gender, color, temperament, alive) values ("Mr. Ch
           insert into bears (name, age, gender, color, temperament, alive) values ("Grinch", 6, "Male", "Brown", "Mean", TRUE);
             insert into bears (name, age, gender, color, temperament, alive) values ("Wendy", 5, "Female", "Black", "Relaxed", TRUE);
               insert into bears (age, gender, color, temperament, alive) values (5, "Male", "Brown", "Aggressive", TRUE);
-                insert into bears (name, age, gender, color, temperament, alive) values ();
